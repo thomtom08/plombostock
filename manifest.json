@@ -1,0 +1,19 @@
+{
+  "name": "PlomboStock",
+  "short_name": "PlomboStock",
+  "description": "Gestion de stock plomberie-chauffage",
+  "start_url": "/plombostock/",
+  "scope": "/plombostock/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1A6FD4",
+  "theme_color": "#1A6FD4",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
